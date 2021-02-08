@@ -7,7 +7,7 @@
 __I have an technical education. I worked in indastrial plants as electrician. Now I'm learning JavaScript programming language. I believe I can become a programmer.__
 __Why do I want to become a programmer? I want to get a new profession, I want to learn something new, I want to change my life...__
 
-####My strengths of character: purposefulness, responsibility, quite easy to learn.
+#### My strengths of character: purposefulness, responsibility, quite easy to learn.
 
 ### Will be added...
 
