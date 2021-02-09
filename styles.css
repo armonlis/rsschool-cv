@@ -1,0 +1,29 @@
+main {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#name {
+    border: 1px transparent;
+    border-radius: 5px;
+    background-color: blue;
+    padding: 5px 15px;
+    height: 220px;
+}
+
+#name > h1 {
+    color: white;
+    font-size: 42px;
+}
+
+#name > p {
+    color: gold;
+    font-size: 16px;
+}
+
+*#name > img {
+    float: right;
+    height: 90%;
+    margin-top: 10px;
+    
+}
