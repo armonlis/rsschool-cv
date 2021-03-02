@@ -1,4 +1,9 @@
+a {
+    text-decoration: none;
+}
+
 main {
+    position: relative;
     width: 80%;
     margin: 0 auto;
 }
@@ -43,46 +48,54 @@ header > img {
 }
 
 aside {
+    position: fixed;
+    top: 250px;
     float: left;
     width: 20%;
     margin-left: 2.5%;
 }
 
-aside > ul {
-    font-size: 2em;
+aside ul {
+    font-size: 1.5em;
 }
 
-aside > ul > li > a {
+aside ul > li > a {
     display: block;
     text-align: center;
     margin: 10px 0px;
     float: left;
     width: 80%;
-    text-decoration: none;
     background-color: gray;
     border: 1px solid gray;
     border-radius: 0px 20px 20px 0px;
     color: white;
 }
 
-aside > ul > li > a:hover {
+aside ul > li > a:hover {
     background-color: darkblue;
     color: gold;
 }
 
-article {
+div {
     padding: 2.5%;
-    float: left;
+    float: right;
     width: 70%;
     margin: 0 auto;
 }
 
-#about {
+section {
+    margin: 50px 0;
+}
+
+#about, #education, #examples, #language, #skill {
     font-size: 1.2em;
 }
 
-#character {
-    font-size: 1.2em;
+h2 {
+    font-size: 1.5em;
+    text-decoration: underline;
+    color: darkblue;
+    text-align: center;
 }
 
 ul {
@@ -105,7 +118,6 @@ footer > a {
     float: right;
     margin: 0px 50px;
     background-color: gray;
-    text-decoration: none;
     color: white;
     font-size: 2em;
     border: 2px solid gray;
