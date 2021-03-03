@@ -2,7 +2,7 @@ a {
     text-decoration: none;
 }
 
-main {
+body {
     position: relative;
     width: 80%;
     margin: 0 auto;
@@ -17,7 +17,7 @@ header {
     border-bottom: 5px solid black;
 }
 
-main > p {
+body > p {
     text-align: right;
     font-size: 2em;
     color: black;
