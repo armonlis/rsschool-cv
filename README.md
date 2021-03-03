@@ -1,1 +1,1 @@
-https://armonlis.github.io/rsschool-cv/rsscool-cv-html
+https://armonlis.github.io/rsschool-cv/cv
